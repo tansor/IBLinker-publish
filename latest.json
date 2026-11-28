@@ -1,0 +1,9 @@
+{
+  "versionName": "20261128.2348",
+  "versionCode": 3634068,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/IBLinker-publish/main/IBLinker_release_20261128_2348.apk",
+  "fileName": "IBLinker_release_20261128_2348.apk",
+  "releaseNotes": "新增主图成交箭头标注（Put下/Call上，平仓角标）；实盘切换改为单一 TRADING_MODE 开关，实盘默认张数上限收紧到1",
+  "publishedAt": "2026-11-28T23:49:51+08:00",
+  "size": 7921563
+}
